@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="GoLang User Management" />
+  <img src="https://miro.medium.com/max/920/1*CdjOgfolLt_GNJYBzI-1QQ.jpeg" alt="GoLang User Management" />
 
   &#xa0;
 
